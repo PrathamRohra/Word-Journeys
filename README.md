@@ -6,10 +6,12 @@ I recently completed my first MERN stack project, Word Journeys, which is a blog
 - `git clone https://github.com/PrathamRohra/Word-Journeys.git`
 - `cd path/to/Word-Journeys`
 - To run the frontend (Port 3000):
+  - `npm install` (Installing the dependencies.)
   - `cd client`
   - `npm run start`
 
 - To run the backend (Port 5000):
+  - `npm install`  (Installing the dependencies.)
   - `cd ..`
   - `cd server`
   - `node index.js`
